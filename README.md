@@ -1,4 +1,4 @@
-# 📘 LoanEase – Personal Loan Application System (Business Analyst Portfolio Project)
+**#LoanEase** – Personal Loan Application System (Business Analyst Portfolio Project)
 
 **LoanEase** is a FinTech domain business analysis project that showcases the complete SDLC lifecycle for a digital personal loan platform.
 
@@ -6,7 +6,7 @@ This project simulates real-world business analyst responsibilities, covering ev
 
 ---
 
-## 🔍 Project Overview
+#Project Overview
 
 - **Domain**: FinTech / Digital Lending  
 - **Users**: Borrowers, Admin Reviewers, Super Admins  
@@ -15,7 +15,7 @@ This project simulates real-world business analyst responsibilities, covering ev
 
 ---
 
-## ✅ Key Features Covered
+**##Key Features Covered**
 
 - User Registration with OTP and KYC Upload (UIDAI/NSDL Integration)  
 - Loan Product Browsing and Filtering  
@@ -26,7 +26,7 @@ This project simulates real-world business analyst responsibilities, covering ev
 
 ---
 
-## 📂 Deliverables Included
+**##📂Deliverables Included**
 
 - Business Requirements Document (BRD) – `01_BRD/LoanEase_BRD.pdf`  
 - Functional Requirements Document (FRD) – `02_FRD/LoanEase_FRD.docx`  
@@ -38,19 +38,19 @@ This project simulates real-world business analyst responsibilities, covering ev
 
 ---
 
-## 🛠️ Tools Used
+*##Tools Used*
 
 - Microsoft Word & Excel (Documentation)  
 - Draw.io and Lucid chart (Use Case Diagrams)  
 - Jira (Agile BA Story Mapping)  
 - GitHub (Version Control & Portfolio Hosting)
-
+-BA professional tools.
 ---
 
-## 📫 Author
+**##Author**
 
 **Omkar Naikade**  
-*Aspired Business Analyst | 2+ Years Experience | Agile, BRD/FRD, Jira, UAT, UML*
+**Business Analyst | 2+ Years Experience | Agile, BRD/FRD, Jira, UAT, UML**
 
 📧 onaikade@gmail.com  
 
