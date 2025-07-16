@@ -52,5 +52,5 @@ This project simulates real-world business analyst responsibilities, covering ev
 **Omkar Naikade**  
 **Business Analyst | 2+ Years Experience | Agile, BRD/FRD, Jira, UAT, UML**
 
-📧 onaikade@gmail.com  
+ ominaikade01@gmail.com  
 
