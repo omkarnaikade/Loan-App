@@ -26,7 +26,7 @@ This project simulates real-world business analyst responsibilities, covering ev
 
 ---
 
-**##📂Deliverables Included**
+**## Deliverables Included**
 
 - Business Requirements Document (BRD) – `01_BRD/LoanEase_BRD.pdf`  
 - Functional Requirements Document (FRD) – `02_FRD/LoanEase_FRD.docx`  
